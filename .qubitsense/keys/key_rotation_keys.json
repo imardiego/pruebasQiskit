@@ -1,0 +1,17 @@
+{
+  "keys": {
+    "key_1755945877010_3e4b32bac52a7abd": {
+      "keyId": "key_1755945877010_3e4b32bac52a7abd",
+      "keyHash": "a2d0c406022eb9dbb38a4e5939db2de220d0a241e10947a70442d5f556636ed6",
+      "createdAt": 1755945877023,
+      "expiresAt": 1763721877023,
+      "isActive": true,
+      "algorithm": "AES-256-GCM",
+      "strength": 256,
+      "rotationCount": 0,
+      "lastUsed": 1755945877023
+    }
+  },
+  "currentKeyId": "key_1755945877010_3e4b32bac52a7abd",
+  "lastUpdated": 1755945877353
+}
